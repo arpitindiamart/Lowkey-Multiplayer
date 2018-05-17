@@ -30,5 +30,10 @@ Make sure before building the project change the link of the websocket in Socket
 Now all you need to do is just host your Server folder as it contains all the necessary files inside the Public folder.
 Deploy and visit the Index Page of your deployment side to see the game up and running.
 
+## To Do's.
+
+- [ ] Add Player Stats 
+- [ ] Add Chat System
+- [ ] Allow players to set username
 
 
